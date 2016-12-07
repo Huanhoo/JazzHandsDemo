@@ -6,9 +6,9 @@
 //  Copyright © 2016年 Huanhoo. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "IFTTTJazzHands.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : IFTTTAnimatedPagingScrollViewController
 
 
 @end
